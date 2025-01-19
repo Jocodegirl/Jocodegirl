@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=222f5b&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=946b2d&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Joana;E+eu+tenho+40+anos;Eu+sou+de+São+Paulo,+SP;Estudo+Análise+e+Desenv.+de+Sistemas;Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f4c2c2&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Joana;E+eu+tenho+40+anos;Eu+sou+de+São+Paulo,+SP;Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lxzcss&show_icons=true&count_private=false&hide_border=true&title_color=f4c2c2&icon_color=5d5d5d&text_color=f4c2c2&bg_color=0d1117" alt="Joana's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jocodegirl&show_icons=true&count_private=false&hide_border=true&title_color=f4c2c2&icon_color=5d5d5d&text_color=f4c2c2&bg_color=0d1117" alt="Joana's github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocodegirl&layout=compact&hide_border=true&title_color=222f5b&text_color=f4c2c2&bg_color=0d1117&hide=jupyter%20notebook" />
 </div>
 
