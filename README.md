@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=222f5b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=de5d83&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f4c2c2&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Joana;E+eu+tenho+40+anos;Eu+sou+de+São+Paulo,+SP;Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
